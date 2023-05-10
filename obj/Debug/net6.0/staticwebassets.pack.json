@@ -1,0 +1,1257 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\DentistCalendar.bundle.scp.css",
+      "PackagePath": "staticwebassets\\DentistCalendar.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bootstrap\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bootstrap\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\google-calendar.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\google-calendar.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\google-calendar.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\google-calendar.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\google-calendar.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\google-calendar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales-all.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales-all.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales-all.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\af.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar-dz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar-kw.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar-ly.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar-ma.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar-sa.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\da.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\de.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\el.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\en-nz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\es-us.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\es-us.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\es.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\et.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\fr-ch.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\he.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\id.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\is.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\it.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\lb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\lb.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\th.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\locales\\zh-tw.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\locales\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\luxon.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\luxon.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\luxon.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\luxon.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\luxon.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\luxon.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\moment-timezone.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\moment-timezone.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\moment-timezone.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\moment-timezone.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\moment.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\moment.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\moment.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\moment.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\rrule.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\rrule.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\rrule.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\rrule.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\bundle\\rrule.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\bundle\\rrule.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales-all.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales-all.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales-all.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales-all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\af.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-dz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-dz.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-kw.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-kw.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-ly.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-ly.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-ma.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-ma.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-sa.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-sa.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar-tn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar-tn.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ar.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\az.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\bg.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\bs.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ca.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\cs.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\da.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\de.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\el.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\en-au.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\en-gb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\en-nz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\en-nz.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\es-us.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\es-us.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\es.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\et.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\eu.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\fa.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\fi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\fr-ca.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\fr-ch.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fr-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\fr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\gl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\he.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\hi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\hr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\hu.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\id.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\is.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\it.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ja.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ka.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\kk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\kk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ko.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\lb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\lb.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\lt.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\lv.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\mk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ms.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\nb.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\nl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\nn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\nn.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\pl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\pt-br.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\pt.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ro.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ru.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\sk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\sl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\sq.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\sr-cyrl.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sr-cyrl.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\sr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\sv.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\th.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\tr.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\ug.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\uk.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\uz.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\uz.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\vi.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\zh-cn.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\locales\\zh-tw.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\locales\\zh-tw.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\core\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\core\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\daygrid\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\daygrid\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\google-calendar\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\google-calendar\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\interaction\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\interaction\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\list\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\list\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\luxon\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\luxon\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment-timezone\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment-timezone\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\moment\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\moment\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\rrule\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\rrule\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.d.ts",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.esm.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.js.map",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.js.map"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.min.css",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.min.css"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\main.min.js",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\main.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\fullcalendar\\timegrid\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fullcalendar\\timegrid\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\muhammer TURK\\Desktop\\DentistCalendar\\DentistCalendar\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.DentistCalendar.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.DentistCalendar.props",
+      "PackagePath": "build\\DentistCalendar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.DentistCalendar.props",
+      "PackagePath": "buildMultiTargeting\\DentistCalendar.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.DentistCalendar.props",
+      "PackagePath": "buildTransitive\\DentistCalendar.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
