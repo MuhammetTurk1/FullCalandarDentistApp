@@ -5,11 +5,12 @@
 
 @section Styles {
     <link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
-    <link href='/lib/fullcalendar/core/main.css' rel='stylesheet' />
-    <link href='/lib/fullcalendar/daygrid/main.css' rel='stylesheet' />
+    <link href='~/lib/fullcalendar/core/main.css' rel='stylesheet' />
+    <link href='~/lib/fullcalendar/daygrid/main.css' rel='stylesheet' />
     <link href="~/lib/fullcalendar/timegrid/main.css" rel="stylesheet" />
     <link href="~/lib/fullcalendar/list/main.css" rel="stylesheet" />
     <link href="~/lib/fullcalendar/bootstrap/main.css" />
+
 }
 
 
@@ -35,7 +36,7 @@
 
 @section Scripts {
     <script src='~/lib/fullcalendar/core/main.js'></script>
-    <script src="/lib/fullcalendar/daygrid/main.js"></script>
+    <script src="~/lib/fullcalendar/daygrid/main.js"></script>
     <script src="~/lib/fullcalendar/timegrid/main.js"></script>
     <script src="~/lib/fullcalendar/list/main.js"></script>
     <script src="~/lib/fullcalendar/interaction/main.js"></script>
@@ -60,7 +61,6 @@
 
             var calendar = new FullCalendar.Calendar(calendarEl, {
                 plugins: ['interaction','dayGrid', 'timeGrid', 'list', 'bootstrap'],
-                themeSystem: 'bootstrap',
                 bootstrapFontAwesome: {
                     dayGridMonth: 'calendar',
                     prev: 'fa-chevron-circle-left',
@@ -71,9 +71,10 @@
                 header: {
                     left: 'prev, next, today, addEvent',
                     center: 'title',
-                    right: 'dayGridMonth, timeGridWeek, timeGridDay, timeGridForFourDay, listWeek'
+                    right: 'dayGridMonth, timeGridWeek, timeGridDay, listWeek, timeGridForFourDay'
                     //listDay, listWeek, listMonth, listYear
                 },
+                defaultView: 'dayGridMonth',
                 footer: {
                     left: 'prevYear',
                     right: 'nextYear'
@@ -81,7 +82,7 @@
                 //scrollTime : '08:00:00',
                 minTime: '08:00:00',
                 maxTime: '21:00:00',
-                //slotDuration: '00:15:00',
+                //slotDuration: '00:15:00', //zamanını ayarlama sol tarafda yerler için
                 //slotLabelInterval: '00:15:00',
                 slotLabelFormat: {
                     hour: '2-digit',
@@ -134,14 +135,16 @@
                             var newEvent = {
                                 id: 'a',
                                 title: 'New Event',
-                                start: '2020-04-04T15:00:00.000Z',
-                                end: '2020-04-04T15:30:00.000Z'
+                                start: '2023-05-04T18:00:00.000Z',
+                                end: '2023-05-04T18:30:00.000Z'
                             }
-
                             calendar.addEvent(newEvent);
+                            //var date= new Date();
+                            //alert(date);
                         }
                     }
                 },
+                //OLuşturdugumuz eventlerin rengini yazısını değiştirebiliriz !!
                 //eventColor : 'red',
                 //eventBackgroundColor: 'red',
                 //eventBorderColor: 'black',
@@ -165,14 +168,14 @@
                     {
                         id: 'x',
                         title: 'Merhaba',
-                        start: '2020-04-04T08:00:00.000Z',
-                        end: '2020-04-04T10:30:00.000Z'
+                        start: '2023-05-04T08:00:00.000Z',
+                        end: '2023-05-04T10:30:00.000Z'
                     },
                     {
                         id: 'y',
                         title: 'A Merhaba Y',
-                        start: '2020-04-04T13:00:00.000Z',
-                        end: '2020-04-04T15:30:00.000Z'
+                        start: '2023-05-04T13:00:00.000Z',
+                        end: '2023-05-04T15:30:00.000Z'
                     }
                 ],
                 //eventRender: function (info) {
@@ -203,6 +206,9 @@
                 //    //süzgeç
                 //    return stillEvent.allDay && movingEvent.allDay;
                 //},
+
+                //Tabloda Günceleme ve sınırlama yapmak istiyorsan
+
                 //eventConstraint: {
                 //    startTime: '10:00',
                 //    endTime: '19:00',

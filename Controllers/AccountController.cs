@@ -98,7 +98,7 @@ namespace DentistCalendar.Controllers
                     return View("Error");
                 }
                 _userManager.AddToRoleAsync(user, model.IsDentist ? "Dentist" : "Secretary").Wait();
-                return RedirectToAction("Index", "Home");
+                return RedirectToAction("Login", "Account");
             }
 
             return View("Error");
